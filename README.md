@@ -160,4 +160,6 @@ Well, hi yourself.
 
 
 
-That's all for now folks, I hope you've enjoyed this tutorial as much as I've enjoyed making it for you.  Stay tuned for **Part 2: Making Fractals with Your Credit Card Number**.
+That's all for now folks, I hope you've enjoyed this tutorial as much as I've enjoyed making it for you.  Stay tuned for
+
+**Part 2: Making Fractals with Your Social Security Number**.
