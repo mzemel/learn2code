@@ -135,7 +135,7 @@ We can play with our new program by writing:
 ruby cc_gatherer.rb
 ```
 
-And we get to interact with the program we wrote, alternating between collecting info (make sure it's accurate!) and printing out a response.  Imagine that writing your own text-based adventure game isn't far around the corner (see below).
+And we get to interact with the program we wrote, alternating between collecting info (make sure it's accurate!) and printing out a response (see below).  Writing your own text-based adventure game isn't far around the corner!
 
 ![Image of Terminal]
 (http://i.imgur.com/7lmW3Cj.png)
