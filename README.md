@@ -160,6 +160,6 @@ Well, hi yourself.
 
 
 
-That's all for now folks, I hope you've enjoyed this tutorial as much as I've enjoyed making it for you.  Stay tuned for
+That's all for now folks, I hope you've enjoyed this tutorial as much as I've enjoyed making it for you.
 
-**Part 2: Making Fractals with Your Social Security Number**.
+Stay tuned for Part 2: Making Fractals with Your Social Security Number.
